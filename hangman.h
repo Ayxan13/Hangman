@@ -1,3 +1,7 @@
+/*
+ * Written by Ayxan Haqverdili
+ * May 4 2020
+ */
 #ifndef HANGMAN_HPP
 #define HANGMAN_HPP
 #pragma once
