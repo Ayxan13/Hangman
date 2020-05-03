@@ -1,5 +1,6 @@
 #include "hangman.h"
 
 int main() {
-        Hangman::play("./Wordlist.txt"); // frequency sorted English words
+        // frequency sorted English words https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#English
+        Hangman::play("./Wordlist.txt"); 
 }
