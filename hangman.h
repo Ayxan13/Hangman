@@ -18,7 +18,7 @@ public:
 
 private:
         /*
-         * Class that represents a word and it's ranking as in how common it's used.
+         * Class that represents a word and its ranking as in how common it's used.
          *
          *      str  : the word itself
          *      rank : ranking of the word
