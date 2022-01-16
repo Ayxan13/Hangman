@@ -193,7 +193,7 @@ void Hangman::printWord(std::string_view const word) noexcept {
         std::putchar('\n');
 
         for (size_t i = 0; i != word.size(); ++i) {
-                std::printf("%-2d ", i + 1);
+                std::printf("%-2zu ", i + 1);
         }
 
         std::putchar('\n');

@@ -7,6 +7,7 @@
 #define HANGMAN_HPP
 #pragma once
 #include <filesystem>
+#include <list>
 #include <set>
 
 class Hangman {
